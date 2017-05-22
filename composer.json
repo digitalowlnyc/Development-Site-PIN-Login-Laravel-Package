@@ -1,0 +1,16 @@
+{
+    "name": "bluenest/laravel-development-site-login",
+    "description": "A Laravel package to add an extra PIN login to development sites.",
+    "authors": [
+        {
+            "name": "Bryan",
+            "email": "bryan@bluenestdigital.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BlueNest\\DevelopmentSiteLogin\\": "src/BlueNest/DevelopmentSiteLogin"
+        }
+    }
+}
